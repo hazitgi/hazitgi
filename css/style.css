@@ -412,12 +412,14 @@ span.border.one:after {
 .about-left-grid h3 {
   font-size: 2.5em;
   color: #fff;
+ 
 }
 .about-left-grid {
   width: 70%;
   float: right;
   margin-right: 10em;
   min-height: 480px;
+  line-height: 3;
 }
 .about-left-grid h2 {
   color: #191919;
