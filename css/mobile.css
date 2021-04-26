@@ -1,0 +1,45 @@
+#home {
+  background: url("../images/mobile/header-bg.jpg");
+  background-position: left;
+  background-size: cover;
+}
+.about-right {
+  background: url("../images/about-pic.jpg");
+  background-position: left;
+  background-size: cover;
+}
+.footer {
+  background: url("../images/mobile/contact.jpg");
+  background-position: left;
+  background-size: cover;
+}
+.img1 {
+  display: none;
+}
+.img1d {
+  display: block;
+}
+.b1 {
+  display: none;
+}
+.b1d {
+  display: block;
+}
+.b2 {
+  display: none;
+}
+.b2d {
+  display: block;
+}
+.b3 {
+  display: none;
+}
+.b3d {
+  display: block;
+}
+.b3c {
+  display: none;
+}
+.b3cd {
+  display: block;
+}

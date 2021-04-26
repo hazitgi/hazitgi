@@ -27,7 +27,7 @@ $(document).ready(function () {
         digits: "Mobile Number must have numeric digit",
       },
       Name: {
-        required: "Please Enter Your Name",
+        required: "Please Enter Your Name",        
       },
       Message: {
         required: "Please Enter Your Messege",

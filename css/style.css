@@ -2057,3 +2057,34 @@ span.border.two:after {
 .form-contro.input.valid {
   border-color: #2ecc71;
 }
+
+.img1 {
+  display: block;
+}
+.img1d {
+  display: none;
+}
+.b1 {
+  display: block;
+}
+.b1d {
+  display: none;
+}
+.b2 {
+  display: block;
+}
+.b2d {
+  display: none;
+}
+.b3 {
+  display: block;
+}
+.b3d {
+  display: none;
+}
+.b3c {
+  display: block;
+}
+.b3cd {
+  display: none;
+}
